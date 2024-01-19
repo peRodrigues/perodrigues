@@ -1,14 +1,13 @@
 
+
 <img align="center" style="margin-bottom:100px" width=100% src="header.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="left">Estou iniciando neste vasto universo da programação, mais especificamente no desenvolvimento web. A cada dia, busco aprofundar-me ainda mais nos conteúdos que venho conhecendo. Realmente, apaixonei-me por explorar mais sobre o desenvolvimento web e espero aprimorar minhas habilidades, profissionalizando-me cada vez mais nessa área que tanto me encanta.</p>&nbsp;
 
-<div style="margin-bottom:100px; display: flex; justify-content: space-between; aling-items: center;">
-<img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=peRodrigues&theme=github-dark-dimmed&hide_border=true&locale=pt_BR&widht=300px" alt="GitHub Streak" />
-
-<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=peRodrigues&layout=compact&theme=github_dark_dimmed&widht=300px" />
-
+<div align=center style="margin-bottom: 100px">
+ <img width=55% align=center src="https://github-readme-streak-stats.herokuapp.com?user=peRodrigues&theme=github-dark-dimmed&hide_border=true&locale=pt_BR&widht=300px" alt="GitHub Streak" />
+ <img width=40% align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=peRodrigues&layout=compact&theme=github_dark_dimmed&widht=300px" />
 </div>
  
  &nbsp;
