@@ -8,6 +8,7 @@
 <div align=center style="margin-bottom: 100px">
  <img width=55% align=center src="https://github-readme-streak-stats.herokuapp.com?user=peRodrigues&theme=github-dark-dimmed&hide_border=true&locale=pt_BR&widht=300px" alt="GitHub Streak" />
  <img width=40% align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=peRodrigues&layout=compact&theme=github_dark_dimmed&widht=300px" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peRodrigues&langs_count=8)
 </div>
  
  &nbsp;
